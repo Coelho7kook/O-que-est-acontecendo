@@ -1,0 +1,9 @@
+#questionContainer {
+    position: relative;
+    height: 200px; /* Defina uma altura adequada */
+}
+
+#noBtn {
+    position: absolute;
+    transition: all 0.1s ease; /* Suaviza o movimento */
+}
